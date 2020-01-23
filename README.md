@@ -20,3 +20,9 @@ https://github.com/hukuda222/reading-paper/blob/master/A_Critical_Evaluation/rep
 https://www.aclweb.org/anthology/N18-2097/
 ### markdown
 https://github.com/hukuda222/reading-paper/blob/master/Discourse-Aware_Attention_Model/report.md
+
+## CODE2SEQ: GENERATING SEQUENCES FROM STRUCTURED REPRESENTATIONS OF CODE(ICLR 2019)
+### 論文URL
+https://arxiv.org/pdf/1808.01400.pdf
+### markdown
+https://github.com/hukuda222/reading-paper/blob/master/code2seq/report.md
